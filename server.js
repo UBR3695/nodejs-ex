@@ -1,6 +1,6 @@
 //  OpenShift sample Node application
 var express = require('express'),
-    app     = express(),
+    app     = express(123),
     morgan  = require('morgan');
     
 Object.assign=require('object-assign')
