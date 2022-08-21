@@ -553,11 +553,6 @@
       "generate": "expression",
       "from": "[a-zA-Z0-9]{16}"
     },
-    {
-      "name": "NPM_MIRROR",
-      "displayName": "Custom NPM Mirror URL",
-      "description": "The custom NPM mirror URL",
-      "value": ""
-    }
+   
   ]
 }
